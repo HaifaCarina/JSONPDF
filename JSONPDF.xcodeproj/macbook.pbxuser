@@ -1,0 +1,177 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* JSONPDFAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 614}}";
+			sepNavSelRange = "{164, 0}";
+			sepNavVisRange = "{0, 474}";
+		};
+	};
+	1D3623250D0F684500981E51 /* JSONPDFAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1092}}";
+			sepNavSelRange = "{290, 0}";
+			sepNavVisRange = "{0, 1643}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* JSONPDF */ = {
+		activeExec = 0;
+		executables = (
+			FA3D9EC113CFF017006D1436 /* JSONPDF */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* JSONPDFViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 590}}";
+			sepNavSelRange = "{449, 214}";
+			sepNavVisRange = "{0, 671}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* JSONPDFViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1859}}";
+			sepNavSelRange = "{207, 0}";
+			sepNavVisRange = "{0, 1393}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FA3D9EC113CFF017006D1436 /* JSONPDF */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* JSONPDF */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* JSONPDF */,
+		);
+		codeSenseManager = FA3D9ECB13CFF023006D1436 /* Code sense */;
+		executables = (
+			FA3D9EC113CFF017006D1436 /* JSONPDF */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 333888441;
+			PBXWorkspaceStateSaveDate = 333888441;
+		};
+		perUserProjectItems = {
+			FA03451913D40B1200733D84 /* PBXTextBookmark */ = FA03451913D40B1200733D84 /* PBXTextBookmark */;
+			FA03451A13D40B1200733D84 /* PBXTextBookmark */ = FA03451A13D40B1200733D84 /* PBXTextBookmark */;
+			FA9E91C613E6BC170014694B /* PBXTextBookmark */ = FA9E91C613E6BC170014694B /* PBXTextBookmark */;
+			FA9E91C713E6BC170014694B /* PBXTextBookmark */ = FA9E91C713E6BC170014694B /* PBXTextBookmark */;
+			FA9E91C813E6BC170014694B /* PBXTextBookmark */ = FA9E91C813E6BC170014694B /* PBXTextBookmark */;
+		};
+		sourceControlManager = FA3D9ECA13CFF023006D1436 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	FA03451913D40B1200733D84 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* JSONPDFViewController.h */;
+		name = "JSONPDFViewController.h: 21";
+		rLen = 214;
+		rLoc = 449;
+		rType = 0;
+		vrLen = 671;
+		vrLoc = 0;
+	};
+	FA03451A13D40B1200733D84 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* JSONPDFViewController.m */;
+		name = "JSONPDFViewController.m: 42";
+		rLen = 0;
+		rLoc = 1245;
+		rType = 0;
+		vrLen = 1412;
+		vrLoc = 624;
+	};
+	FA3D9EC113CFF017006D1436 /* JSONPDF */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = JSONPDF;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	FA3D9ECA13CFF023006D1436 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	FA3D9ECB13CFF023006D1436 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FA9E91C613E6BC170014694B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* JSONPDFAppDelegate.h */;
+		name = "JSONPDFAppDelegate.h: 9";
+		rLen = 0;
+		rLoc = 164;
+		rType = 0;
+		vrLen = 474;
+		vrLoc = 0;
+	};
+	FA9E91C713E6BC170014694B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* JSONPDFAppDelegate.m */;
+		name = "JSONPDFAppDelegate.m: 15";
+		rLen = 0;
+		rLoc = 290;
+		rType = 0;
+		vrLen = 1643;
+		vrLoc = 0;
+	};
+	FA9E91C813E6BC170014694B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* JSONPDFViewController.m */;
+		name = "JSONPDFViewController.m: 8";
+		rLen = 0;
+		rLoc = 207;
+		rType = 0;
+		vrLen = 1393;
+		vrLoc = 0;
+	};
+}

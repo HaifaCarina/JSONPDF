@@ -1,0 +1,772 @@
+TJSONPDF
+v7
+r0
+t335431330.671737
+cCheck dependencies
+cProcessInfoPlistFile "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app/Info.plist" JSONPDF-Info.plist
+cCompileXIB "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/MainWindow.xib"
+cCompileXIB "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/JSONPDFViewController.xib"
+cProcessPCH /var/folders/KC/KCjvKgbuGGOK+acuKE3Gfk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSONPDF_Prefix-gaptjqjushiuapgwrmwyyciepcwa/JSONPDF_Prefix.pch.gch JSONPDF_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/main.o "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/JSONPDFAppDelegate.o "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSONPDFAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/JSONPDFViewController.o "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSONPDFViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/NSObject+SBJSON.o "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/NSObject+SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/NSString+SBJSON.o "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/NSString+SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/SBJsonBase.o "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/SBJsonBase.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/SBJsonParser.o "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/SBJsonParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/SBJsonWriter.o "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/SBJsonWriter.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app/JSONPDF" normal i386
+cGenerateDSYMFile "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app.dSYM" "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app/JSONPDF"
+cTouch "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSON/JSON.h
+c000000004C5354180000000000000BE8
+t1280529432
+s3048
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+i<JSON/SBJsonParser.h>
+i<JSON/SBJsonWriter.h>
+i<JSON/NSObject+SBJSON.h>
+i<JSON/NSString+SBJSON.h>
+
+N/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSON/NSObject+SBJSON.h
+c000000004C535269000000000000085F
+t1280529001
+s2143
+i<Foundation/Foundation.h>
+
+N/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSON/NSObject+SBJSON.m
+c000000004C535269000000000000077D
+t1280529001
+s1917
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSON/NSString+SBJSON.h
+c000000004C53526900000000000007F0
+t1280529001
+s2032
+i<Foundation/Foundation.h>
+
+N/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSON/NSString+SBJSON.m
+c000000004C535269000000000000075D
+t1280529001
+s1885
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSON/SBJsonBase.h
+c000000004C5352690000000000000B82
+t1280529001
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSON/SBJsonBase.m
+c000000004C5352690000000000000AC1
+t1280529001
+s2753
+i"SBJsonBase.h"
+
+N/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSON/SBJsonParser.h
+c000000004C5352690000000000000C8F
+t1280529001
+s3215
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSON/SBJsonParser.m
+c000000004C5352690000000000003B7A
+t1280529001
+s15226
+i"SBJsonParser.h"
+
+N/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSON/SBJsonWriter.h
+c000000004C53526900000000000011D9
+t1280529001
+s4569
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSON/SBJsonWriter.m
+c000000004C53526900000000000020D8
+t1280529001
+s8408
+i"SBJsonWriter.h"
+
+N/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSONPDFAppDelegate.h
+c000000004E1FB89600000000000001DA
+t1310701718
+s474
+i<UIKit/UIKit.h>
+
+N/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSONPDFAppDelegate.m
+c000000004E23D1560000000000000A90
+t1310970198
+s2704
+i"JSONPDFAppDelegate.h"
+i"JSONPDFViewController.h"
+
+N/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSONPDFViewController.h
+c000000004E23CB2F000000000000029F
+t1310968623
+s671
+i<UIKit/UIKit.h>
+i"JSON.h"
+
+N/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSONPDFViewController.m
+c000000004E368496000000000000101F
+t1312195734
+s4127
+i"JSONPDFViewController.h"
+
+N/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/JSONPDFViewController.xib
+c000000004E1FB8960000000000001A45
+t1310701718
+s6725
+
+N/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/JSONPDF_Prefix.pch
+c000000004E1FB89600000000000000B7
+t1310701718
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/MainWindow.xib
+c000000004E1FB8960000000000004E29
+t1310701718
+s20009
+
+N/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app
+t1312195646
+s238
+
+N/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app.dSYM
+t1312195646
+s102
+
+N/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app/Info.plist
+t1310703262
+s591
+
+N/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app/JSONPDF
+t1312195646
+s58100
+
+N/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app/JSONPDFViewController.nib
+t1310703278
+s795
+
+N/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app/MainWindow.nib
+t1310703278
+s1123
+
+N/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app/PkgInfo
+t1310703262
+s8
+
+N/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/JSONPDF.LinkFileList
+c000000004E1FBE9D000000000000046B
+t1310703261
+s1131
+
+N/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/JSONPDFAppDelegate.o
+t1312195645
+s51160
+
+N/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/JSONPDFViewController.o
+t1312195645
+s59744
+
+N/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/NSObject+SBJSON.o
+t1312195645
+s7420
+
+N/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/NSString+SBJSON.o
+t1312195646
+s7312
+
+N/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/SBJsonBase.o
+t1312195646
+s13240
+
+N/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/SBJsonParser.o
+t1312195646
+s36936
+
+N/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/SBJsonWriter.o
+t1312195646
+s26736
+
+N/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/main.o
+t1312195645
+s6324
+
+N/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/main.m
+c000000004E1FB8970000000000000164
+t1310701719
+s356
+i<UIKit/UIKit.h>
+
+N/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/JSON.h
+c000000004C5354180000000000000BE8
+t1280529432
+s3048
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+i<JSON/SBJsonParser.h>
+i<JSON/SBJsonWriter.h>
+i<JSON/NSObject+SBJSON.h>
+i<JSON/NSString+SBJSON.h>
+
+N/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/NSObject+SBJSON.h
+c000000004C535268000000000000085F
+t1280529000
+s2143
+i<Foundation/Foundation.h>
+
+N/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/NSObject+SBJSON.m
+c000000004C535268000000000000077D
+t1280529000
+s1917
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/NSString+SBJSON.h
+c000000004C53526800000000000007F0
+t1280529000
+s2032
+i<Foundation/Foundation.h>
+
+N/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/NSString+SBJSON.m
+c000000004C535268000000000000075D
+t1280529000
+s1885
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/SBJsonBase.h
+c000000004C5352680000000000000B82
+t1280529000
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/SBJsonBase.m
+c000000004C5352680000000000000AC1
+t1280529000
+s2753
+i"SBJsonBase.h"
+
+N/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/SBJsonParser.h
+c000000004C5352680000000000000C8F
+t1280529000
+s3215
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/SBJsonParser.m
+c000000004C5352680000000000003B7A
+t1280529000
+s15226
+i"SBJsonParser.h"
+
+N/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/SBJsonWriter.h
+c000000004C53526800000000000011D9
+t1280529000
+s4569
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/SBJsonWriter.m
+c000000004C53526800000000000020D8
+t1280529000
+s8408
+i"SBJsonWriter.h"
+
+N/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSONPDFAppDelegate.h
+c000000004E1FB89600000000000001DA
+t1310701718
+s474
+i<UIKit/UIKit.h>
+
+N/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSONPDFAppDelegate.m
+c000000004E23D1560000000000000A90
+t1310970198
+s2704
+i"JSONPDFAppDelegate.h"
+i"JSONPDFViewController.h"
+
+N/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSONPDFViewController.h
+c000000004E4E0EE30000000000000253
+t1313738467
+s595
+i<UIKit/UIKit.h>
+i"JSON.h"
+
+N/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSONPDFViewController.m
+c000000004E4E0F640000000000000CAE
+t1313738596
+s3246
+i"JSONPDFViewController.h"
+
+N/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/JSONPDFViewController.xib
+c000000004E1FB8960000000000001A45
+t1310701718
+s6725
+
+N/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/JSONPDF_Prefix.pch
+c000000004E1FB89600000000000000B7
+t1310701718
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/MainWindow.xib
+c000000004E1FB8960000000000004E29
+t1310701718
+s20009
+
+N/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app
+t1313738530
+s238
+
+N/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app.dSYM
+t1313738530
+s102
+
+N/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app/Info.plist
+t1310703262
+s591
+
+N/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app/JSONPDF
+t1313738530
+s58096
+
+N/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app/JSONPDFViewController.nib
+t1310703278
+s795
+
+N/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app/MainWindow.nib
+t1310703278
+s1123
+
+N/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app/PkgInfo
+t1310703262
+s8
+
+N/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/JSONPDF.LinkFileList
+c000000004E420D71000000000000051B
+t1312951665
+s1307
+
+N/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/JSONPDFAppDelegate.o
+t1313738514
+s51188
+
+N/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/JSONPDFViewController.o
+t1313738530
+s58324
+
+N/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/NSObject+SBJSON.o
+t1312951666
+s7464
+
+N/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/NSString+SBJSON.o
+t1312951666
+s7356
+
+N/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/SBJsonBase.o
+t1312951666
+s13284
+
+N/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/SBJsonParser.o
+t1312951666
+s37000
+
+N/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/SBJsonWriter.o
+t1312951666
+s26776
+
+N/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/main.o
+t1312951666
+s6368
+
+N/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/main.m
+c000000004E1FB8960000000000000164
+t1310701718
+s356
+i<UIKit/UIKit.h>
+
+N/var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSONPDF_Prefix-efmxdshklbftslcdlqqxgfzvjayp/JSONPDF_Prefix.pch.gch
+t1312195644
+s15453392
+
+N/var/folders/KC/KCjvKgbuGGOK+acuKE3Gfk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSONPDF_Prefix-gaptjqjushiuapgwrmwyyciepcwa/JSONPDF_Prefix.pch.gch
+t1312951666
+s15453392
+
+NJSONPDF-Info.plist
+c000000004E1FB896000000000000038D
+t1310701718
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies335431330#335431330#0(0"0(0#1#0"8608050080#0"0#
+
+CCompileC build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/JSONPDFAppDelegate.o "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSONPDFAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s333888445.446169
+e333888445.623900
+r1
+xCompileC
+xbuild/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/JSONPDFAppDelegate.o
+x/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSONPDFAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSONPDFAppDelegate.m333888445#333888445#0(0"0(0#0#77"/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSONPDFAppDelegate.m8615307968#2082"    cd "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-generated-files.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-own-target-headers.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-all-target-headers.hmap" -iquote "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-project-headers.hmap" "-F/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/include" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/DerivedSources/i386" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/DerivedSources" -include /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSONPDF_Prefix-efmxdshklbftslcdlqqxgfzvjayp/JSONPDF_Prefix.pch -c "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSONPDFAppDelegate.m" -o "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/JSONPDFAppDelegate.o"0#
+
+CCompileC build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/JSONPDFAppDelegate.o "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSONPDFAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335431314.726637
+e335431314.839134
+r1
+xCompileC
+xbuild/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/JSONPDFAppDelegate.o
+x/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSONPDFAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSONPDFAppDelegate.m335431314#335431314#0(0"0(0#0#99"/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSONPDFAppDelegate.m7018412935847310336#2324"    cd "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-generated-files.hmap" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-own-target-headers.hmap" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-all-target-headers.hmap" -iquote "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-project-headers.hmap" "-F/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/include" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/DerivedSources/i386" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/DerivedSources" -include /var/folders/KC/KCjvKgbuGGOK+acuKE3Gfk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSONPDF_Prefix-gaptjqjushiuapgwrmwyyciepcwa/JSONPDF_Prefix.pch -c "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSONPDFAppDelegate.m" -o "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/JSONPDFAppDelegate.o"0#
+
+CCompileC build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/JSONPDFViewController.o "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSONPDFViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s333888445.624175
+e333888445.888591
+r1
+xCompileC
+xbuild/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/JSONPDFViewController.o
+x/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSONPDFViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSONPDFViewController.m333888445#333888445#0(0"0(0#0#80"/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSONPDFViewController.m8621701920#2088"    cd "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-generated-files.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-own-target-headers.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-all-target-headers.hmap" -iquote "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-project-headers.hmap" "-F/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/include" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/DerivedSources/i386" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/DerivedSources" -include /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSONPDF_Prefix-efmxdshklbftslcdlqqxgfzvjayp/JSONPDF_Prefix.pch -c "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSONPDFViewController.m" -o "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/JSONPDFViewController.o"0#
+
+CCompileC build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/JSONPDFViewController.o "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSONPDFViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335431330.412552
+e335431330.623555
+r1
+xCompileC
+xbuild/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/JSONPDFViewController.o
+x/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSONPDFViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSONPDFViewController.m335431330#335431330#0(0"0(0#0#102"/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSONPDFViewController.m7009904992856326144#2330"    cd "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-generated-files.hmap" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-own-target-headers.hmap" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-all-target-headers.hmap" -iquote "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-project-headers.hmap" "-F/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/include" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/DerivedSources/i386" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/DerivedSources" -include /var/folders/KC/KCjvKgbuGGOK+acuKE3Gfk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSONPDF_Prefix-gaptjqjushiuapgwrmwyyciepcwa/JSONPDF_Prefix.pch -c "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSONPDFViewController.m" -o "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/JSONPDFViewController.o"0#
+
+CCompileC build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/NSObject+SBJSON.o "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSON/NSObject+SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s333888445.888711
+e333888445.952593
+r1
+xCompileC
+xbuild/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSON/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSON/NSObject+SBJSON.m333888445#333888445#0(0"0(0#0#79"/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSON/NSObject+SBJSON.m8616942464#2081"    cd "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-generated-files.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-own-target-headers.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-all-target-headers.hmap" -iquote "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-project-headers.hmap" "-F/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/include" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/DerivedSources/i386" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/DerivedSources" -include /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSONPDF_Prefix-efmxdshklbftslcdlqqxgfzvjayp/JSONPDF_Prefix.pch -c "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSON/NSObject+SBJSON.m" -o "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/NSObject+SBJSON.o"0#
+
+CCompileC build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/NSObject+SBJSON.o "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/NSObject+SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s334644466.465547
+e334644466.525684
+r1
+xCompileC
+xbuild/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/NSObject+SBJSON.m334644466#334644466#0(0"0(0#0#101"/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/NSObject+SBJSON.m8621701792#2323"    cd "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-generated-files.hmap" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-own-target-headers.hmap" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-all-target-headers.hmap" -iquote "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-project-headers.hmap" "-F/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/include" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/DerivedSources/i386" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/DerivedSources" -include /var/folders/KC/KCjvKgbuGGOK+acuKE3Gfk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSONPDF_Prefix-gaptjqjushiuapgwrmwyyciepcwa/JSONPDF_Prefix.pch -c "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/NSObject+SBJSON.m" -o "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/NSObject+SBJSON.o"0#
+
+CCompileC build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/NSString+SBJSON.o "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSON/NSString+SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s333888445.952713
+e333888446.070181
+r1
+xCompileC
+xbuild/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSON/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSON/NSString+SBJSON.m333888445#333888446#0(0"0(0#0#79"/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSON/NSString+SBJSON.m8616684640#2081"    cd "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-generated-files.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-own-target-headers.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-all-target-headers.hmap" -iquote "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-project-headers.hmap" "-F/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/include" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/DerivedSources/i386" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/DerivedSources" -include /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSONPDF_Prefix-efmxdshklbftslcdlqqxgfzvjayp/JSONPDF_Prefix.pch -c "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSON/NSString+SBJSON.m" -o "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/NSString+SBJSON.o"0#
+
+CCompileC build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/NSString+SBJSON.o "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/NSString+SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s334644466.525792
+e334644466.606567
+r1
+xCompileC
+xbuild/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/NSString+SBJSON.m334644466#334644466#0(0"0(0#0#101"/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/NSString+SBJSON.m8621221344#2323"    cd "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-generated-files.hmap" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-own-target-headers.hmap" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-all-target-headers.hmap" -iquote "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-project-headers.hmap" "-F/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/include" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/DerivedSources/i386" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/DerivedSources" -include /var/folders/KC/KCjvKgbuGGOK+acuKE3Gfk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSONPDF_Prefix-gaptjqjushiuapgwrmwyyciepcwa/JSONPDF_Prefix.pch -c "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/NSString+SBJSON.m" -o "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/NSString+SBJSON.o"0#
+
+CCompileC build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/SBJsonBase.o "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSON/SBJsonBase.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s333888446.070311
+e333888446.180221
+r1
+xCompileC
+xbuild/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/SBJsonBase.o
+x/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSON/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSON/SBJsonBase.m333888446#333888446#0(0"0(0#0#74"/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSON/SBJsonBase.m8622289184#2071"    cd "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-generated-files.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-own-target-headers.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-all-target-headers.hmap" -iquote "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-project-headers.hmap" "-F/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/include" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/DerivedSources/i386" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/DerivedSources" -include /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSONPDF_Prefix-efmxdshklbftslcdlqqxgfzvjayp/JSONPDF_Prefix.pch -c "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSON/SBJsonBase.m" -o "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/SBJsonBase.o"0#
+
+CCompileC build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/SBJsonBase.o "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/SBJsonBase.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s334644466.588114
+e334644466.698486
+r1
+xCompileC
+xbuild/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/SBJsonBase.o
+x/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/SBJsonBase.m334644466#334644466#0(0"0(0#0#96"/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/SBJsonBase.m8620635168#2313"    cd "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-generated-files.hmap" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-own-target-headers.hmap" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-all-target-headers.hmap" -iquote "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-project-headers.hmap" "-F/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/include" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/DerivedSources/i386" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/DerivedSources" -include /var/folders/KC/KCjvKgbuGGOK+acuKE3Gfk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSONPDF_Prefix-gaptjqjushiuapgwrmwyyciepcwa/JSONPDF_Prefix.pch -c "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/SBJsonBase.m" -o "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/SBJsonBase.o"0#
+
+CCompileC build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/SBJsonParser.o "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSON/SBJsonParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s333888446.180669
+e333888446.338080
+r1
+xCompileC
+xbuild/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/SBJsonParser.o
+x/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSON/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSON/SBJsonParser.m333888446#333888446#0(0"0(0#0#76"/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSON/SBJsonParser.m8618765792#2075"    cd "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-generated-files.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-own-target-headers.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-all-target-headers.hmap" -iquote "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-project-headers.hmap" "-F/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/include" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/DerivedSources/i386" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/DerivedSources" -include /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSONPDF_Prefix-efmxdshklbftslcdlqqxgfzvjayp/JSONPDF_Prefix.pch -c "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSON/SBJsonParser.m" -o "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/SBJsonParser.o"0#
+
+CCompileC build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/SBJsonParser.o "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/SBJsonParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s334644466.606670
+e334644466.826592
+r1
+xCompileC
+xbuild/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/SBJsonParser.o
+x/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/SBJsonParser.m334644466#334644466#0(0"0(0#0#98"/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/SBJsonParser.m8620128288#2317"    cd "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-generated-files.hmap" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-own-target-headers.hmap" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-all-target-headers.hmap" -iquote "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-project-headers.hmap" "-F/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/include" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/DerivedSources/i386" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/DerivedSources" -include /var/folders/KC/KCjvKgbuGGOK+acuKE3Gfk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSONPDF_Prefix-gaptjqjushiuapgwrmwyyciepcwa/JSONPDF_Prefix.pch -c "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/SBJsonParser.m" -o "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/SBJsonParser.o"0#
+
+CCompileC build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/SBJsonWriter.o "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSON/SBJsonWriter.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s333888446.338204
+e333888446.491329
+r1
+xCompileC
+xbuild/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSON/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSON/SBJsonWriter.m333888446#333888446#0(0"0(0#0#76"/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSON/SBJsonWriter.m8616641504#2075"    cd "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-generated-files.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-own-target-headers.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-all-target-headers.hmap" -iquote "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-project-headers.hmap" "-F/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/include" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/DerivedSources/i386" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/DerivedSources" -include /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSONPDF_Prefix-efmxdshklbftslcdlqqxgfzvjayp/JSONPDF_Prefix.pch -c "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/Classes/JSON/SBJsonWriter.m" -o "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/SBJsonWriter.o"0#
+
+CCompileC build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/SBJsonWriter.o "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/SBJsonWriter.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s334644466.698589
+e334644466.835381
+r1
+xCompileC
+xbuild/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/SBJsonWriter.m334644466#334644466#0(0"0(0#0#98"/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/SBJsonWriter.m8621740864#2317"    cd "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-generated-files.hmap" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-own-target-headers.hmap" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-all-target-headers.hmap" -iquote "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-project-headers.hmap" "-F/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/include" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/DerivedSources/i386" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/DerivedSources" -include /var/folders/KC/KCjvKgbuGGOK+acuKE3Gfk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSONPDF_Prefix-gaptjqjushiuapgwrmwyyciepcwa/JSONPDF_Prefix.pch -c "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/Classes/JSON/SBJsonWriter.m" -o "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/SBJsonWriter.o"0#
+
+CCompileC build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/main.o "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s333888445.256404
+e333888445.446049
+r1
+xCompileC
+xbuild/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/main.o
+x/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/macbook/Documents/Tmp/Native Apps/JSONPDF/main.m333888445#333888445#0(0"0(0#0#55"/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/main.m8623691616#2046"    cd "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-generated-files.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-own-target-headers.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-all-target-headers.hmap" -iquote "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-project-headers.hmap" "-F/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/include" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/DerivedSources/i386" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/DerivedSources" -include /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSONPDF_Prefix-efmxdshklbftslcdlqqxgfzvjayp/JSONPDF_Prefix.pch -c "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/main.m" -o "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/main.o "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s334644466.303878
+e334644466.387671
+r1
+xCompileC
+xbuild/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/main.o
+x/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/main.m334644466#334644466#0(0"0(0#0#77"/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/main.m8618954816#2288"    cd "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-generated-files.hmap" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-own-target-headers.hmap" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-all-target-headers.hmap" -iquote "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-project-headers.hmap" "-F/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/include" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/DerivedSources/i386" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/DerivedSources" -include /var/folders/KC/KCjvKgbuGGOK+acuKE3Gfk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSONPDF_Prefix-gaptjqjushiuapgwrmwyyciepcwa/JSONPDF_Prefix.pch -c "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/main.m" -o "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/JSONPDFViewController.xib"
+s332396062.165677
+e332396079.068420
+r1
+xCompileXIB
+x/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/JSONPDFViewController.xib
+lSLF07#2@36"CompileXIB JSONPDFViewController.xib332396062#332396079#0(0"0(0#0#74"/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/JSONPDFViewController.xib8614444096#628"    cd "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app/JSONPDFViewController.nib" "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/JSONPDFViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/MainWindow.xib"
+s332396062.113064
+e332396079.068020
+r1
+xCompileXIB
+x/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib332396062#332396079#0(0"0(0#0#63"/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/MainWindow.xib8614231456#606"    cd "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app/MainWindow.nib" "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/JSONPDFViewController.xib"
+r0
+
+CCompileXIB "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/MainWindow.xib"
+r0
+
+CGenerateDSYMFile "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app.dSYM" "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app/JSONPDF"
+s333888446.565898
+e333888446.691091
+r1
+xGenerateDSYMFile
+x/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app.dSYM
+x/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app/JSONPDF
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/JSONPDF.app.dSYM build/Debug-iphonesimulator/JSONPDF.app/JSONPDF333888446#333888446#0(0"0(0#0#96"/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app/JSONPDF8615055552#419"    cd "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app/JSONPDF" -o "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app.dSYM" "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app/JSONPDF"
+s335431330.651310
+e335431330.669137
+r1
+xGenerateDSYMFile
+x/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app.dSYM
+x/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app/JSONPDF
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/JSONPDF.app.dSYM build/Debug-iphonesimulator/JSONPDF.app/JSONPDF335431330#335431330#0(0"0(0#0#118"/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app/JSONPDF8608479520#485"    cd "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app/JSONPDF" -o "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app.dSYM"0#
+
+CLd "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app/JSONPDF" normal i386
+s333888446.491449
+e333888446.565766
+r1
+xLd
+x/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app/JSONPDF
+xnormal
+xi386
+lSLF07#2@101"Link /Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app/JSONPDF333888446#333888446#0(0"0(0#0#0"8615962240#960"    cd "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator" "-F/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator" -filelist "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/JSONPDF.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app/JSONPDF"0#
+
+CLd "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app/JSONPDF" normal i386
+s335431330.623646
+e335431330.651209
+r1
+xLd
+x/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app/JSONPDF
+xnormal
+xi386
+lSLF07#2@123"Link /Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app/JSONPDF335431330#335431330#0(0"0(0#0#0"8607153280#1070"    cd "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator" "-F/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator" -filelist "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/Objects-normal/i386/JSONPDF.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app/JSONPDF"0#
+
+CProcessInfoPlistFile "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app/Info.plist" JSONPDF-Info.plist
+s332396061.785471
+e332396062.112878
+r1
+xProcessInfoPlistFile
+x/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app/Info.plist
+xJSONPDF-Info.plist
+lSLF07#2@26"Process JSONPDF-Info.plist332396061#332396062#0(0"0(0#0#67"/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/JSONPDF-Info.plist3406485279854253056#515"    cd "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility JSONPDF-Info.plist -genpkginfo "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app/Info.plist"0#
+
+CProcessInfoPlistFile "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app/Info.plist" JSONPDF-Info.plist
+r0
+
+CProcessPCH /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSONPDF_Prefix-efmxdshklbftslcdlqqxgfzvjayp/JSONPDF_Prefix.pch.gch JSONPDF_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s333888443.982396
+e333888445.255929
+r1
+xProcessPCH
+x/var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSONPDF_Prefix-efmxdshklbftslcdlqqxgfzvjayp/JSONPDF_Prefix.pch.gch
+xJSONPDF_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile JSONPDF_Prefix.pch333888443#333888445#0(0"0(0#0#67"/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/JSONPDF_Prefix.pch8611421440#1926"    cd "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-generated-files.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-own-target-headers.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-all-target-headers.hmap" -iquote "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-project-headers.hmap" "-F/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/include" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/DerivedSources/i386" "-I/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/DerivedSources" -c "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/JSONPDF_Prefix.pch" -o /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSONPDF_Prefix-efmxdshklbftslcdlqqxgfzvjayp/JSONPDF_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/KC/KCjvKgbuGGOK+acuKE3Gfk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSONPDF_Prefix-gaptjqjushiuapgwrmwyyciepcwa/JSONPDF_Prefix.pch.gch JSONPDF_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s334644465.537736
+e334644466.303754
+r1
+xProcessPCH
+x/var/folders/KC/KCjvKgbuGGOK+acuKE3Gfk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSONPDF_Prefix-gaptjqjushiuapgwrmwyyciepcwa/JSONPDF_Prefix.pch.gch
+xJSONPDF_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile JSONPDF_Prefix.pch334644465#334644466#0(0"0(0#0#89"/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/JSONPDF_Prefix.pch8619958976#2146"    cd "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-generated-files.hmap" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-own-target-headers.hmap" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-all-target-headers.hmap" -iquote "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/JSONPDF-project-headers.hmap" "-F/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/include" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/DerivedSources/i386" "-I/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/JSONPDF.build/Debug-iphonesimulator/JSONPDF.build/DerivedSources" -c "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/JSONPDF_Prefix.pch" -o /var/folders/KC/KCjvKgbuGGOK+acuKE3Gfk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSONPDF_Prefix-gaptjqjushiuapgwrmwyyciepcwa/JSONPDF_Prefix.pch.gch0#
+
+CTouch "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app"
+s333888446.691257
+e333888446.695375
+r1
+xTouch
+x/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app
+lSLF07#2@94"Touch /Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app333888446#333888446#0(0"0(0#0#0"8622233824#302"    cd "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/macbook/Documents/Tmp/Native Apps/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app"0#
+
+CTouch "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app"
+s335431330.669223
+e335431330.671697
+r1
+xTouch
+x/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app
+lSLF07#2@116"Touch /Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app335431330#335431330#0(0"0(0#0#0"8607182112#346"    cd "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/nmg/Documents/Haifa/Native Apps/Haifa's Simple Examples/JSONPDF/build/Debug-iphonesimulator/JSONPDF.app"0#
+
